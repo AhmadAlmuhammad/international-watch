@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/international-watch/static/css/main.81d3d95e.css",
+    "main.js": "/international-watch/static/js/main.e74c9cc6.js",
+    "static/js/787.68a2a1a2.chunk.js": "/international-watch/static/js/787.68a2a1a2.chunk.js",
+    "index.html": "/international-watch/index.html",
+    "main.81d3d95e.css.map": "/international-watch/static/css/main.81d3d95e.css.map",
+    "main.e74c9cc6.js.map": "/international-watch/static/js/main.e74c9cc6.js.map",
+    "787.68a2a1a2.chunk.js.map": "/international-watch/static/js/787.68a2a1a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81d3d95e.css",
+    "static/js/main.e74c9cc6.js"
+  ]
+}
