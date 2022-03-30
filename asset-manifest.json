@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/international-watch/static/css/main.81d3d95e.css",
-    "main.js": "/international-watch/static/js/main.047528ee.js",
+    "main.js": "/international-watch/static/js/main.7f7d4c35.js",
     "static/js/787.68a2a1a2.chunk.js": "/international-watch/static/js/787.68a2a1a2.chunk.js",
     "index.html": "/international-watch/index.html",
     "main.81d3d95e.css.map": "/international-watch/static/css/main.81d3d95e.css.map",
-    "main.047528ee.js.map": "/international-watch/static/js/main.047528ee.js.map",
+    "main.7f7d4c35.js.map": "/international-watch/static/js/main.7f7d4c35.js.map",
     "787.68a2a1a2.chunk.js.map": "/international-watch/static/js/787.68a2a1a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81d3d95e.css",
-    "static/js/main.047528ee.js"
+    "static/js/main.7f7d4c35.js"
   ]
 }
